@@ -20,6 +20,10 @@
    - Identifiqué tendencias y patrones estacionales en los ingresos y beneficios.
    - Comparé el rendimiento financiero de diferentes entidades y marcas.
 
+[02 Dashboard Enfoque en Beneficios.pdf](https://github.com/valentinalosasso/PORTAFOLIO_ANALISTA_DE_DATOS/blob/310b8ffb44660484a8f84363a3c3526b5c8ebfd6/02%20Dashboard%20Enfoque%20en%20Beneficios.pdf)
+
+[02 Dashboard Enfoque en Beneficios.pbix](https://github.com/valentinalosasso/PORTAFOLIO_ANALISTA_DE_DATOS/blob/310b8ffb44660484a8f84363a3c3526b5c8ebfd6/02%20Dashboard%20Enfoque%20en%20Beneficios.pbix)
+
 ## Habilidades Destacadas
 
 - Manipulación y limpieza de datos utilizando herramientas como Microsoft Excel, Power BI y SQL.
