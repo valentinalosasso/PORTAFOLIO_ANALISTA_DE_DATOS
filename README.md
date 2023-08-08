@@ -11,15 +11,17 @@
    - Evalué si existen oportunidades para mejorar la eficiencia y la rentabilidad en ciertos mercados.
 
    📄 [01 Dashboard Análisis de Utilidad y Márgenes.pdf](https://github.com/valentinalosasso/PORTAFOLIO_ANALISTA_DE_DATOS/blob/64a83ee75dc2154c65ef0c10c761d8d4ee3726bd/01%20Dashboard%20An%C3%A1lisis%20de%20Utilidad%20Y%20M%C3%A1genes.pdf)
+   
    📊 [01 Dashboard Análisis de Utilidad y Márgenes.pbix](https://github.com/valentinalosasso/PORTAFOLIO_ANALISTA_DE_DATOS/blob/19d21b520b7e46466c91265f6205eac28df21a7e/01%20Dashboard%20An%C3%A1lisis%20de%20Utilidad%20y%20M%C3%A1genes.pbix)
 
 
-2. **Enfoque en Beneficios - Dashboard Financiero en Power BI**
+3. **Enfoque en Beneficios - Dashboard Financiero en Power BI**
    - Evalué cómo los beneficios varían según las regiones geográficas y los países.
    - Identifiqué tendencias y patrones estacionales en los ingresos y beneficios.
    - Comparé el rendimiento financiero de diferentes entidades y marcas.
 
    📄 [02 Dashboard Enfoque en Beneficios.pdf](https://github.com/valentinalosasso/PORTAFOLIO_ANALISTA_DE_DATOS/blob/1f0da65f63c05d1279fa8b4c414f899e53bab147/02%20Dashboard%20Enfoque%20en%20Beneficios.pdf)
+   
    📊 [02 Dashboard Enfoque en Beneficios.pbix](https://github.com/valentinalosasso/PORTAFOLIO_ANALISTA_DE_DATOS/blob/1f15166daaa7158d945e87d950e9a5c253f0736e/02%20Dashboard%20Enfoque%20en%20Beneficios.pbix)
 
 ## 🛠️ Habilidades Destacadas
