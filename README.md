@@ -20,9 +20,9 @@
    - Identifiqué tendencias y patrones estacionales en los ingresos y beneficios.
    - Comparé el rendimiento financiero de diferentes entidades y marcas.
 
-[02 Dashboard Enfoque en Beneficios.pdf](02 Dashboard Enfoque en Beneficios.pdf)
+[02 Dashboard Enfoque en Beneficios.pdf](https://github.com/valentinalosasso/PORTAFOLIO_ANALISTA_DE_DATOS/blob/1f0da65f63c05d1279fa8b4c414f899e53bab147/02%20Dashboard%20Enfoque%20en%20Beneficios.pdf)
 
-[02 Dashboard Enfoque en Beneficios.pbix](02 Dashboard Enfoque en Beneficios.pbix)
+[02 Dashboard Enfoque en Beneficios.pbix](https://github.com/valentinalosasso/PORTAFOLIO_ANALISTA_DE_DATOS/blob/1f15166daaa7158d945e87d950e9a5c253f0736e/02%20Dashboard%20Enfoque%20en%20Beneficios.pbix)
 
 ## Habilidades Destacadas
 
