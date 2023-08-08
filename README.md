@@ -9,6 +9,7 @@
    - Identifiqué los países con mejor rendimiento en términos de ingresos y beneficios.
    - Analicé las tendencias y patrones estacionales en las ventas a nivel internacional.
    - Evalué si existen oportunidades para mejorar la eficiencia y la rentabilidad en ciertos mercados.
+ [Dashboard PDF](01 Dashboard Análisis de Utilidad Y Mágenes.pdf)
 
 3. **Enfoque en Beneficios - Dashboard Financiero en Power BI**
    - Evalué cómo los beneficios varían según las regiones geográficas y los países.
